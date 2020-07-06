@@ -1,3 +1,4 @@
 # app-monitor1.1
-desarrollo básico de una aplicación de monitoreo
-el frontend de la aplicacion de monitoreo se encuentra en src/frontend
+development to aplication for bushing monitoring  
+"""if some one is interested in this proyect could contact with me and i will give you a explication  about the proyect"""
+
